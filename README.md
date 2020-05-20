@@ -1,12 +1,15 @@
 # baseball_project
 
-## Some Basic Instructions on How to Get Started
+### Some Basic Instructions on How to Get Started
+
+**Add your public ssh key to your gitlab account:**https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account
+**Clone the repository to your local machine:** 'git clone git@github.com:mtetkosk/baseball_project.git'
 
 **Download and install python3:** https://www.python.org/downloads/release/python-3610/  
 **Install Requirements:** 'pip install requirements.txt'  
 **Install jupyter notebook:** 'pip install jupyterlab'  
   
-**Start jupyter notebook:** 'jupyter notebook'  
+**Start jupyter notebook:** 'jupyter notebook' 
 
 **Advanced:** Install virtualenv using 'pip install virtualenv'  
 - Set up virtual environment using 'virtualenv -p python3 env'  
